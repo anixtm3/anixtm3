@@ -27,9 +27,17 @@
 - Linux  
 - VS Code  
 
-## Projects
-- **Facial Recognition System** – A real-time facial emotion recognition system that uses deep learning and computer vision to detect faces from live video and classify facial expressions using a CNN.
-- **Face-Based Location Prediction System** – A real-time face recognition system that maps detected identities to predefined location data using computer vision and machine learning.   
+## Featured Projects
+
+**Facial Recognition System**  
+- Real-time facial emotion recognition system.  
+- Tech: Python, OpenCV, CNN  
+- https://github.com/anixtm3/facial-recognition-system
+
+**Face-Based Location Prediction System**  
+- Face recognition system that links identities to location data.  
+- Tech: Python, OpenCV, Machine Learning  
+- https://github.com/anixtm3/face-based-location-prediction-system
 
 > More projects coming soon
 
